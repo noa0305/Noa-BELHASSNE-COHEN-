@@ -190,7 +190,7 @@ padding-top: 10%;
 }
 
 .picture{
-    border: 1px solid green;
+    border: 0px solid green;
     display: flex;
     padding:auto; 
     justify-content: center;
@@ -213,7 +213,7 @@ padding-top: 10%;
 }
 
 .etudes{
-    border: 1px solid green;
+    border: 0px solid green;
     display: flex;
     padding: 10px 50px;
     justify-content: space-around;
